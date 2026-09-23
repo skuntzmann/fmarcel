@@ -1,10 +1,10 @@
 {
-  "name": "OCB",
-  "short_name": "OCB",
-  "description": "Accès au Digipad OCB",
+  "name": "MARCEL",
+  "short_name": "MARCEL",
+  "description": "Accès à MARCEL, le Tableau de bord de l'élève",
 
-  "start_url": "/ocb/",
-  "scope": "/ocb/",
+  "start_url": "/fmarcel/",
+  "scope": "/fmarcel/",
 
   "display": "standalone",
 
@@ -13,13 +13,13 @@
 
   "icons": [
     {
-      "src": "/ocb/icons/icon-192.png",
+      "src": "/fmarcel/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/ocb/icons/icon-512.png",
+      "src": "/fmarcel/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
