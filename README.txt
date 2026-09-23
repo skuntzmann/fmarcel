@@ -1,7 +1,7 @@
-OCB — mini web-app installable
+MARCEL - mini web-app installable
 
 Cette version ouvre directement le Digipad :
-https://digipad.app/p/1234419/95149a1460b23
+https://digipad.app/p/646694/e2c6d25a8915d
 
 IMPORTANT :
 Pour que l'installation PWA fonctionne, ces fichiers doivent être hébergés sur un site en HTTPS.
